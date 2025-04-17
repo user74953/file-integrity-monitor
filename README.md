@@ -11,7 +11,7 @@ Python project that detects file changes (added, modified, or deleted) in any fo
   - Modified files
   - Deleted files
   - New files added
-- Works through a simple **GUI** or terminal input
+- Works through a simple terminal input
   
 ---
 
