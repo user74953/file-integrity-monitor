@@ -15,4 +15,7 @@ Python project that detects file changes (added, modified, or deleted) in any fo
   
 ---
 
+#1 Creating test folder
+
+<img width="1496" alt="step 1" src="https://github.com/user-attachments/assets/966da14e-f0df-42e5-bd68-d22337238cd7" />
 
